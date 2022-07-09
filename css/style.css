@@ -120,7 +120,7 @@ main h2 {
     font-size: 2.5rem;
   }
 
-  main .page-header {
+  .page-header {
     flex-direction: column;
   }
 }
