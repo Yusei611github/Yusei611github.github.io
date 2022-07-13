@@ -272,7 +272,8 @@ footer .menu li {
 /* スマホ対応レスポンシブ */
 @media(max-width: 600px) {
   body {
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
+    padding: 50px 40px 0 40px;
   }
 
   header .top {
